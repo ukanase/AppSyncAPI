@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "@playlyfe/gql": "^2.6.2",
-    "aws-sdk": "^2.577.0",
+    "aws-sdk": "^2.814.0",
     "serverless-appsync-offline": "^1.4.0",
     "serverless-appsync-plugin": "^1.1.2",
     "serverless-dynamodb-local": "^0.2.38",
